@@ -1,0 +1,23 @@
+{
+  "name": "null",
+  "version": "1.0.0",
+  "description": "Dependency management CRM",
+  "main": "index.js",
+  "dependencies": {
+    "left-pad": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdobz/null.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdobz/null/issues"
+  },
+  "homepage": "https://github.com/sdobz/null#readme"
+}
